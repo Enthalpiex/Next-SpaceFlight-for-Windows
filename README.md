@@ -1,2 +1,9 @@
 # Next-SpaceFlight-for-Windows
-NSF https://nextspaceflight.com/
+
+[NextSpaceflight](https://nextspaceflight.com/)
+
+Direct packaged version for Windows
+
+## Download
+
+Go [Release](https://github.com/Enthalpiex/Next-SpaceFlight-for-Windows/release)
