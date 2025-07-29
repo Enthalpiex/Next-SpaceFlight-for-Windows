@@ -1,6 +1,6 @@
 # Next-SpaceFlight-for-Windows
 
-<img width="1067" height="1074" alt="Screenshot 2025-07-28 234157" src="https://github.com/user-attachments/assets/aa7ee23b-e5f2-4ebe-844c-4421d24cf1df" />
+<img width="714" height="109" alt="image" src="https://github.com/user-attachments/assets/ccb6d43b-aa5c-4d5a-8729-a9578ecc26d4" />
 
 
 [NextSpaceflight](https://nextspaceflight.com/)
